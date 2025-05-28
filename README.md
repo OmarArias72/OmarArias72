@@ -10,6 +10,13 @@
 - My development philosophy is based on constructive criticism of the code itself: I firmly believe that there are no impossible problems, only paths that remain to be discovered to reach the solution. I seek to apply good programming practices, with the goal of writing clear, maintainable and quality code.
 
 
+
 ## Tech Stack
 
-Python, Java, SpringBoot, MySQL, Git
+![Logo de Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) 
+![Logo de Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg)
+![Logo de Spring](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg) 
+![Logo de Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg) 
+![Logo de Mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
+
+
